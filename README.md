@@ -17,8 +17,21 @@
   the project consiste of managing a database "local here using sqlLite" and predecting the behavior of the supply based on previous data plus the normal CRUD operation on this database.
   
  <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_01.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_02.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_03.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_04.png" alt="drawing" width="200"/>
+ 
+ * MonkeyNotes Project: Basic Note taking app in flutter:
+ with the integration of google's cloude service firebase to store the data in a NoSql form.
+ 
+ <img src="https://github.com/B-Houssam/projects/blob/master/screens/m3.jpg" alt="drawing" width="200"/>  <img src="https://github.com/B-Houssam/projects/blob/master/screens/m2.jpg" alt="drawing" width="200"/>  <img src="https://github.com/B-Houssam/projects/blob/master/screens/m1.jpg" alt="drawing" width="200"/>
+ 
+ * MyNotes Project: notes taking app in React-native: * Work in progress *
+  A note taking app with the integration of google maps to add a position, the possibility to add media to your notes.
+  
+  <img src="https://github.com/B-Houssam/projects/blob/master/screens/Screenshot_20201020-134550_MyNotes.jpg" alt="drawing" width="200"/> 
 
-** React-Native SandBox: A repo to test out different components and solutions made in react native:
-For Example: Testing Network Conectivity and animating a splash screen based on the result:
+### React-Native SandBox: A repo to test out different components and solutions made in react native:
+
+- For Example: Testing Network Conectivity and animating a splash screen based on the result:
 
 <img src="https://github.com/B-Houssam/projects/blob/master/screens/20201020_133835_1.gif" alt="drawing" width="200"/>
+
+- For Example: Live location tracking :
