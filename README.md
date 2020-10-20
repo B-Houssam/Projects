@@ -1,1 +1,13 @@
-# Projects
+## Main Projects i made as a cross platform mobile developper
+
+* NEWS Project: News App in React-Native:
+  Using two simple api "New York Times APi and weather Apito make the top component" to make a modern looking app.
+  you can choose from different categories and the scene will update with the scroll.
+  we can see also some onboarding pages and a network issue screen.
+  
+ <img src="https://github.com/B-Houssam/News/blob/master/Screen%20Shots/flutter_05.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/News/blob/master/Screen%20Shots/flutter_01.png" alt="drawing" width="200"/>  <img src="https://github.com/B-Houssam/News/blob/master/Screen%20Shots/flutter_02.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/News/blob/master/Screen%20Shots/flutter_03.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/News/blob/master/Screen%20Shots/flutter_06.png" alt="drawing" width="200"/>
+
+* CoronaTracker Project: Covid-19 tracking App in flutter:
+  Using the WHO international api to make a cool looking app thats gives and updates the corona virus status and informations from all the world.
+  
+  <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_01.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_02.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_03.png" alt="drawing" width="200"/>
