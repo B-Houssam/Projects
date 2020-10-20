@@ -17,3 +17,6 @@
   the project consiste of managing a database "local here using sqlLite" and predecting the behavior of the supply based on previous data plus the normal CRUD operation on this database.
   
  <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_01.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_02.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_03.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_04.png" alt="drawing" width="200"/>
+
+* React-Native SandBox: A repo to test out different components and solutions made in react native:
+For Example: Testing Network Conectivity and animating a splash screen based on the result:
