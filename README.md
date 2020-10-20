@@ -34,4 +34,4 @@
 
 <img src="https://github.com/B-Houssam/projects/blob/master/screens/20201020_133835_1.gif" alt="drawing" width="200"/>
 
-- For Example: Live location tracking :
+- For Example: Live location tracking and google maps :
