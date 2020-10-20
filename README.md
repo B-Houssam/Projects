@@ -18,5 +18,7 @@
   
  <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_01.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_02.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_03.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_04.png" alt="drawing" width="200"/>
 
-* React-Native SandBox: A repo to test out different components and solutions made in react native:
+** React-Native SandBox: A repo to test out different components and solutions made in react native:
 For Example: Testing Network Conectivity and animating a splash screen based on the result:
+
+<img src="https://github.com/B-Houssam/projects/blob/master/screens/20201020_133835_1.gif" alt="drawing" width="200"/>
