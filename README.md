@@ -11,3 +11,9 @@
   Using the WHO international api to make a cool looking app thats gives and updates the corona virus status and informations from all the world.
   
   <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_01.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_02.png" alt="drawing" width="200"/> <img src="https://github.com/B-Houssam/CoronaTracker/blob/master/flutter_03.png" alt="drawing" width="200"/>
+
+* iStock Project: Stock management in flutter:
+  Made as a graduation project for an industrial maintainance master degree.
+  the project consiste of managing a database "local here using sqlLite" and predecting the behavior of the supply based on previous data plus the normal CRUD operation on this database.
+  
+  <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_01.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_02.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_03.png" alt="drawing" width="200"/>   <img src="https://github.com/B-Houssam/iStock/blob/master/screen-shots/flutter_04.png" alt="drawing" width="200"/>
