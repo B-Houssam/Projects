@@ -1,7 +1,7 @@
 ## Main Projects i made as a cross platform mobile developper
 
-* NEWS Project: News App in React-Native:
-  Using two simple api "New York Times APi and weather Apito make the top component" to make a modern looking app.
+* NEWS Project: News App in Flutter:
+  Using two simple api "New York Times APi and weather Api to make the top component" to make a modern looking app.
   you can choose from different categories and the scene will update with the scroll.
   we can see also some onboarding pages and a network issue screen.
   
